@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# QGIS
+*.qgs~
+*.qgz
+*.qlr
+
+# Data besar (jangan commit ke repo)
+*.tif
+*.tiff
+*.img
+*.jp2
+sample_data/*.shp
+sample_data/*.dbf
+sample_data/*.shx
+sample_data/*.prj
+sample_data/*.cpg
+!sample_data/README.md
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
