@@ -1,8 +1,7 @@
 # 🌿 Karbon Mangrove QGIS — AGC Estimation Plugin
 
-<p align="center">
-  <img src="docs/banner.png" alt="Karbon Mangrove Banner" width="700"/>
-</p>
+<img width="599" height="629" alt="image" src="https://github.com/user-attachments/assets/651424f7-fe3b-421d-9893-d5f3732662b9" />
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/QGIS-3.x-green?logo=qgis&logoColor=white"/>
@@ -103,7 +102,6 @@ karbon-mangrove-qgis/
 ├── plugin/
 │   └── agc_calculation.py       # Algoritma utama QGIS Processing
 ├── docs/
-│   ├── laporan_praktikum.docx   # Laporan praktikum lengkap
 │   ├── cara_penggunaan.md       # Panduan penggunaan detail
 │   └── banner.png               # Screenshot UI plugin
 ├── sample_data/
