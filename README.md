@@ -15,9 +15,9 @@
 
 ## 📋 Deskripsi
 
-Plugin QGIS berbasis **Python Processing Framework** untuk estimasi **Above Ground Carbon (AGC)** pada ekosistem hutan mangrove menggunakan algoritma **Random Forest Regressor**.
+Toolbox QGIS berbasis **Python Processing Framework** untuk estimasi **Above Ground Carbon (AGC)** pada ekosistem hutan mangrove menggunakan algoritma **Random Forest Regressor**.
 
-Plugin ini mengintegrasikan data spektral citra **Sentinel-2** (Band 4/Red & Band 8/NIR) dengan data sampel lapangan **Above Ground Biomass (AGB)** untuk menghasilkan peta prediksi stok karbon spasial.
+Toolbox ini mengintegrasikan data spektral citra **Sentinel-2** (Band 4/Red & Band 8/NIR) dengan data sampel lapangan **Above Ground Biomass (AGB)** untuk menghasilkan peta prediksi stok karbon spasial.
 
 ### Alur Kerja Utama
 
