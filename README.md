@@ -82,7 +82,7 @@ python -m pip install scikit-learn
 
 1. Download atau clone repository ini:
    ```bash
-   git clone https://github.com/USERNAME/karbon-mangrove-qgis.git
+   git clone https://github.com/rosyidpaundra/karbon-mangrove-qgis.git
    ```
 
 2. Copy folder `plugin/` ke direktori QGIS Processing Scripts:
