@@ -1,6 +1,6 @@
 ---
 
-# 🌿 Karbon Mangrove QGIS — AGC Estimation Plugin
+# 🌿 AGC Estimation QGIS Plugin for Mangrove
 
 ## 📋 Description
 
